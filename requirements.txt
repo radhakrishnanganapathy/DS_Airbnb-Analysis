@@ -1,3 +1,7 @@
 streamlit
 pymongo
 python-dotenv
+jupyter
+plotly
+matplotlib
+seaborn
